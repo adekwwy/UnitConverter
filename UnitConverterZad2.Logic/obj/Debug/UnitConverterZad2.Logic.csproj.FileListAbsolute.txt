@@ -1,0 +1,5 @@
+C:\Users\Adrian\source\repos\UnitConverterZad2\UnitConverterZad2.Logic\bin\Debug\UnitConverterZad2.Logic.dll
+C:\Users\Adrian\source\repos\UnitConverterZad2\UnitConverterZad2.Logic\bin\Debug\UnitConverterZad2.Logic.pdb
+C:\Users\Adrian\source\repos\UnitConverterZad2\UnitConverterZad2.Logic\obj\Debug\UnitConverterZad2.Logic.csproj.CoreCompileInputs.cache
+C:\Users\Adrian\source\repos\UnitConverterZad2\UnitConverterZad2.Logic\obj\Debug\UnitConverterZad2.Logic.dll
+C:\Users\Adrian\source\repos\UnitConverterZad2\UnitConverterZad2.Logic\obj\Debug\UnitConverterZad2.Logic.pdb

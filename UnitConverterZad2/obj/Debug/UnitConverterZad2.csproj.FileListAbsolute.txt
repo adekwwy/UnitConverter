@@ -1,0 +1,7 @@
+C:\Users\Adrian\source\repos\UnitConverterZad2\UnitConverterZad2\bin\Debug\UnitConverterZad2.exe.config
+C:\Users\Adrian\source\repos\UnitConverterZad2\UnitConverterZad2\bin\Debug\UnitConverterZad2.exe
+C:\Users\Adrian\source\repos\UnitConverterZad2\UnitConverterZad2\bin\Debug\UnitConverterZad2.pdb
+C:\Users\Adrian\source\repos\UnitConverterZad2\UnitConverterZad2\obj\Debug\UnitConverterZad2.csprojAssemblyReference.cache
+C:\Users\Adrian\source\repos\UnitConverterZad2\UnitConverterZad2\obj\Debug\UnitConverterZad2.csproj.CoreCompileInputs.cache
+C:\Users\Adrian\source\repos\UnitConverterZad2\UnitConverterZad2\obj\Debug\UnitConverterZad2.exe
+C:\Users\Adrian\source\repos\UnitConverterZad2\UnitConverterZad2\obj\Debug\UnitConverterZad2.pdb
